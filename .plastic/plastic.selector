@@ -1,0 +1,4 @@
+repository "Ale drinking mini game@shivtangloo2020@cloud"
+  path "/"
+    br "/main"
+    co "/main"
